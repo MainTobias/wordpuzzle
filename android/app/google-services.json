@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413693693293",
+    "project_id": "wordpuzzle-medat",
+    "storage_bucket": "wordpuzzle-medat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413693693293:android:1adb411e7acf0304971e64",
+        "android_client_info": {
+          "package_name": "com.maintobias.wordpuzzle.wordpuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsvGmwwtUuuEhjQ6n2u1NTClo2hDXVd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
